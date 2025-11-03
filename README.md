@@ -30,7 +30,7 @@ It automates the entire process, including setting the hostname, user, password,
 This script will **only work** if your template is correctly prepared. Official cloud images (like those from Ubuntu or Debian) need extra steps.
 
 1. **Download Image:** Get an official cloud image.  
-   wget \[https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img\](https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img)
+   wget https://cloud-images.ubuntu.com/jammy/current/jammy-server-cloudimg-amd64.img
 
 2. **Create the VM:**  
    \# Create a new VM (e.g., ID 9000\)  
